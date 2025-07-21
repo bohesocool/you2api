@@ -179,6 +179,7 @@ var modelMap = map[string]string{
 	"o4-mini-high":	   "openai_o4_mini_high",
 	"gpt-4.1":	   "gpt_4_1",
 	"gpt-4.1-mini":	   "gpt_4_1_mini",
+	"grok-4":	   "grok_4",
 	"grok-3-beta":	   "grok_3",
 	"grok-2":	   "grok_2",
 	"grok-3-mini-beta":	   "grok_3_mini",
